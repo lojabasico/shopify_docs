@@ -1,4 +1,4 @@
-# Introduction-2
+# Introduction-3
 
 The goal of this documentation is to describe the services, systems and strategies used by basico.com with Shopify its eCommerce Platform.
 
