@@ -56,4 +56,3 @@ Today at basico.com, we use a Payment Gateway called Adyen, which is supported b
 This app allow us to have Full control about which Gateway we want to use on our payment. It allow us to support Payment Partners which are not supported by Shopify natively. Shopify argues that its very difficult to mantain support to several Gateways, so they do it Slowly, and always though ActiveMerchant.
 
 With this app, we can choose which Merchant we will support, and do it through a transparent checkout, as we have today.
-
